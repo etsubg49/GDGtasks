@@ -5,6 +5,6 @@ The app renders an App component that displays a Child component, which in turn 
 
 ## Screenshots
 ### Main Interface
-![props interface](https://github.com/etsubg49/GDGtasks/blob/main/task%202/screenshots/Screenshot%202025-02-15%20204708.png))
+![props interface]((https://github.com/etsubg49/GDGtasks/blob/main/task%202/screenshots/Screenshot%202025-02-15%20204708.png))
 ## Author
 ** Etsubdink Gashaw ** - ** etsubg49 **
