@@ -30,6 +30,6 @@ To run this project locally, you need to have Node.js and npm installed on your 
 **Reset**: Click the "Reset" button to reset the counter value to 0.
 ## Screenshots
 ### Main Interface
-![Counter Interface](screenshots/counter Interface.png)
+![Counter Interface](https://github.com/etsubg49/GDGtasks/blob/main/task%203/screenshots/counter%20Interface.png)
 ## Author
 Etsubdink Gashaw- etsubg49
