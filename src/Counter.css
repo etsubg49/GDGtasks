@@ -1,0 +1,55 @@
+
+body {
+    background-color: #cde5f9; /* Light blue background */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .button:focus { outline: 2px solid #4caf50; /* Custom green outline */ outline-offset: 2px; }
+  
+  /* Counter container */
+  .counter-container {
+    text-align: center;
+    background-color: #5dc1ff; /* White background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow */
+  }
+  
+  /* Counter display */
+  .counter-display {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: #000;
+  }
+  
+  /* Buttons */
+  .button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #ffffff;
+    background-color: #4caf50; /* Green background */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
+  .button.reset {
+    background-color: #f0ececae; /* Red background for reset */
+  }
+  
+  .button.reset:hover {
+    background-color: #dedbe13e; /* Darker red on hover */
+  }
+  
