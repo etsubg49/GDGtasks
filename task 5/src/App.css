@@ -1,0 +1,31 @@
+/* App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.main-nav, .sub-nav {
+  display: flex;
+  gap: 15px;
+  margin: 10px 0;
+}
+
+.main-nav a, .sub-nav a {
+  text-decoration: none;
+  color: #007BFF;
+  padding: 5px 10px;
+  border: 1px solid #007BFF;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.main-nav a:hover, .sub-nav a:hover {
+  background-color: #007BFF;
+  color: white;
+}
+
+.content {
+  margin-top: 20px;
+}
