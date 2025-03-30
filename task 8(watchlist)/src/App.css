@@ -1,0 +1,47 @@
+
+
+.app {
+  padding: 20px;
+
+}
+
+.title {
+  text-align: center;
+}
+
+.movieList {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+    gap: 20px;
+     justify-content: center;
+}
+
+.movieItem {
+  margin-bottom: 20px;
+}
+
+.moviePoster {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.watchlistButton {
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.watchlistButton:hover {
+  background-color: #0056b3;
+}
+
+.loading {
+  font-size: 24px;
+  text-align: center;
+}
